@@ -11,4 +11,4 @@ Community Support: Connect with others for help and tips! 🤝
 System Requirements
 Windows 10 or later 🖥️
 Roblox installed
-.NET Framework 4.5 or higher
+.NET Framework 4.5 or higher.
